@@ -1,0 +1,105 @@
+{
+  "Cono1": {
+    "source_path": "./Cono1/Weekly_reports",
+    "destination_path": "./Cono1/Consolidated_reports",
+    "files": {
+      "Section1_TakenBy_OEcount.xlsx": {
+        "key_cols": ["TakenBy"],
+        "Comp_cols": ["OE_Count"]
+      },
+      "Section2_TakenBy_OrdNum_sfx.xlsx": {
+        "key_cols": ["TakenBy"],
+        "Comp_cols": ["OrderNum", "Suf"]
+      },
+      "Section3_Oper_POCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["PO_Count"]
+      },
+      "Section4_RcvInit_RcvPO.xlsx": {
+        "key_cols": ["Rcv_Init"],
+        "Comp_cols": ["Rcv_POs"]
+      },
+      "Section5_Oper_WTCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["WT_Count"]
+      },
+      "Section6_RcvInit_WTRcvCount.xlsx": {
+        "key_cols": ["Rcv_Init"],
+        "Comp_cols": ["WT_Rcv_Count"]
+      },
+      "Section7_Oper_JrnlsCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_Jrnls"]
+      },
+      "Section8_Oper_Func_NumJrnlsPost.xlsx": {
+        "key_cols": ["Oper", "Funct"],
+        "Comp_cols": ["Jrnl_Posted"]
+      },
+      "Section9_Oper_NumPDSC.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_PDSC"]
+      },
+      "Section10_Oper_NumPSDR.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_PSDR"]
+      },
+      "Section11_Oper_v-name_LoginDt_lstwk.xlsx": {
+        "key_cols": ["Oper", "Vname"],
+        "Field_Source": [ "Date_of_rep", "Cono"],
+        "Comp_cols": ["Login_Date" , "LastWk"]
+      }
+    }
+  },
+
+  "Cono3": {
+    "source_path": "./Cono3/Weekly_reports",
+    "destination_path": "./Cono3/Consolidated_reports",
+    "files": {
+      "Section1_TakenBy_OEcount.xlsx": {
+        "key_cols": ["TakenBy"],
+        "Comp_cols": ["OE_Count"]
+      },
+      "Section2_TakenBy_OrdNum_sfx.xlsx": {
+        "key_cols": ["TakenBy"],
+        "Comp_cols": ["OrderNum", "Suf"]
+      },
+      "Section3_Oper_POCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["PO_Count"]
+      },
+      "Section4_RcvInit_RcvPO.xlsx": {
+        "key_cols": ["Rcv_Init"],
+        "Comp_cols": ["Rcv_POs"]
+      },
+      "Section5_Oper_WTCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["WT_Count"]
+      },
+      "Section6_RcvInit_WTRcvCount.xlsx": {
+        "key_cols": ["Rcv_Init"],
+        "Comp_cols": ["WT_Rcv_Count"]
+      },
+      "Section7_Oper_JrnlsCount.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_Jrnls"]
+      },
+      "Section8_Oper_Func_NumJrnlsPost.xlsx": {
+        "key_cols": ["Oper", "Funct"],
+        "Comp_cols": ["Jrnl_Posted"]
+      },
+      "Section9_Oper_NumPDSC.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_PDSC"]
+      },
+      "Section10_Oper_NumPSDR.xlsx": {
+        "key_cols": ["Oper"],
+        "Comp_cols": ["Num_PSDR"]
+      },
+      "Section11_Oper_v-name_LoginDt_lstwk.xlsx": {
+        "key_cols": ["Oper", "Vname"],
+        "Field_Source": [ "Date_of_rep", "Cono"],
+        "Comp_cols": ["Login_Date" , "LastWk"]
+      }
+    }
+  }
+}

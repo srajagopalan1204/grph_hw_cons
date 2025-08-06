@@ -1,0 +1,514 @@
+08/05/25 Tue 16:21 Server: 08/05/25 20:21   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 1
+                                            Scott Electric - Company 1 Homework Tables
+
+Transactions entered in SX in the past week:
+
+Taken By   OE Count
+-------- ----------
+AK03              2
+AQ01              2
+BF01             25
+BR02              4
+EB03             11
+EG03              1
+ES03             11
+FG01              3
+ISM               8
+JJ01              1
+JM01             31
+JW01              6
+KB03              2
+KC01              1
+KG03              9
+KH02              9
+KM02            611
+LK01              2
+LP01              6
+ML02              8
+MR01             12
+MR02              2
+MZ01              2
+PB03              1
+PD01              8
+RR02             29
+SH03              1
+SP07              4
+TDIN              1
+TR03              2
+TS07             18
+Total Number of Sales Orders Created: 833
+
+
+Taken By  Order # Suf
+-------- -------- ---
+          3972229  00
+BR02        11030  00
+BR02        11034  00
+ES03        11021  00
+ES03        11024  00
+ISM         11111  00
+ism         11616  00
+ISM         11634  00
+JM01        11035  00
+JM01        11070  00
+JM01        11129  00
+JW01        11720  00
+JW01        11721  00
+KG03        11051  00
+KG03        11059  00
+KG03        11060  00
+KG03        11740  00
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 2
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Taken By  Order # Suf
+-------- -------- ---
+KG03        11741  00
+KG03        11743  00
+KH02        11276  01
+KH02        11276  00
+KM02         2316  00
+KM02        11097  00
+MR01         7569  00
+MR01         9422  00
+MR01        11050  00
+PD01        11118  00
+PD01        11121  00
+PD01        11131  00
+PD01        11414  00
+PD01        11415  00
+PD01        11625  00
+RR02        11723  00
+SP07        11255  00
+TR03        11041  00
+TR03        11042  00
+TS07        11033  00
+TS07        11630  00
+Total Number of Sales Orders Shipped: 38
+
+
+Oper   PO Count
+---- ----------
+FG01         39
+ISM           5
+JM01          7
+LK01          1
+LP01          1
+ML02         21
+PB03          1
+PD01          1
+RR02         21
+SB02         21
+TR03          2
+TS07          9
+Total Number of POEH Records Created: 91
+
+
+Rcv Init   Rcv PO's
+-------- ----------
+JM01              7
+SB02              1
+TR03              2
+TS07              4
+Total Number of POEH Records Received: 14
+
+
+Oper   WT Count
+---- ----------
+EB03          1
+KM02          5
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 3
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper   WT Count
+---- ----------
+LP01          1
+MR01          3
+PD01          6
+Total Number of WTEH Records Created: 16
+
+
+Rcv Init WT Rcv Count
+-------- ------------
+CH01                9
+MR01                2
+PD01                4
+Total Number of WTEH Records Received: 15
+
+
+Oper    # Jrnls
+---- ----------
+AH03          1
+AM01          1
+BF01         10
+BR02          4
+CH01          4
+ES03         18
+FG01          1
+JM01         31
+KG03         15
+KH02          3
+MR01         12
+MS03          2
+PD01         14
+RH04          1
+RR02          2
+SB02          7
+SK03          4
+SP07          4
+TR03          2
+TS07         13
+Total Number of Journal Records Created: 149
+
+
+Oper Funct # Jrnl Posted
+---- ----- -------------
+AH03 apei              1
+AM01 dcgca             1
+BF01 vaes             10
+BR02 oeepi             1
+BR02 vaei              1
+BR02 vaes              2
+CH01 wtei              2
+CH01 wtes              2
+ES03 vaei              6
+ES03 vaes             12
+FG01 kpew              1
+JM01 apei              3
+JM01 arece             2
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 4
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper Funct # Jrnl Posted
+---- ----- -------------
+JM01 arer              1
+JM01 icean             1
+JM01 kpew              2
+JM01 oeepi             5
+JM01 oeet              8
+JM01 poei              8
+JM01 pv-ap             1
+KG03 arece             2
+KG03 oeepi            11
+KG03 oeet              2
+KH02 oeet              3
+MR01 arece             2
+MR01 icepa             1
+MR01 oeepi             2
+MR01 oeet              2
+MR01 wtei              2
+MR01 wtes              3
+MS03 apep              2
+PD01 icepa             1
+PD01 oeepi             5
+PD01 wtei              4
+PD01 wtes              4
+RH04 oeepi             1
+RR02 icean             1
+RR02 poei              1
+SB02 apei              5
+SB02 poei              2
+SK03 arece             3
+SK03 oeepi             1
+SP07 oeet              1
+SP07 vaei              1
+SP07 vaes              2
+TR03 poei              2
+TS07 icepa             3
+TS07 kpew              1
+TS07 oeepi             4
+TS07 poei              5
+Total Number of Journal Records Posted: 149
+
+
+Oper     # PDSC
+---- ----------
+AQ01          1
+BF01          2
+EB03         13
+ES03          3
+FG01          7
+JJ01          1
+JM01          4
+JW01          1
+KC01          2
+KG03          1
+KH02          7
+KM02        413
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 5
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper     # PDSC
+---- ----------
+LK01          2
+LP01          3
+ML02          6
+MR01         76
+MR02         16
+MZ01          1
+PB03          1
+RH05         10
+RR02         67
+SH03          1
+SP07          1
+TDIN          2
+TS07          1
+web          64
+Total Number of PDSC Records Created: 706
+
+Total Number of PDSR Records Created: 0
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+AA01 Alejandro Alemon               04/30/25
+AC01 Arden Csolkovits               07/30/25   *
+AC02 Allison Cygnarowicz            07/03/25
+AC03 Tony Colarusso                 08/05/24
+AH03 Amanda Hendrick                08/04/25   *
+AI01 Arnold Inoc                    01/30/24
+AK01 Anthony Kapusinski             01/17/25
+AK03 Ashley Karp                    08/01/25   *
+AL01 Abigail Liner                  07/21/25
+AM01 Al Metz                        08/04/25   *
+AM02 Adam Marks                     06/20/25
+AM03 Amber Miller                   08/05/25   *
+AM05 Aneta Moriarty                 05/05/25
+AQ01 Amy Quay                       08/05/25   *
+AR03 Alice Reece                    01/24/24
+AS02 Anthony Stephens JR            03/19/24
+AZ02 Mandy Zoglmann                 11/12/24
+BA01 Briana Answine                 07/14/25
+BC01 Bob Coletta                    07/28/25
+BC02 Bob Cloutier                   03/07/25
+BCT  Bob Cloutier TWL               06/12/24
+BF01 BETH FERRARINI                 08/05/25   *
+BH01 Bill Haney                     06/23/25
+BI01 Bob Infor Test                 07/31/24
+BK01 Bob Kelecava                   06/19/25
+BK02 Barb Kleinkort                 06/26/23
+BM03 Brian McEvoy                   08/13/24
+BR01 Bailie Richard                 08/05/25   *
+BR02 Breanna Rocco                  08/05/25   *
+BT02 Bobby Tester                   11/07/23
+BT55 Bob Test
+BW01 BIANCA WHITE                   02/21/25
+BZ01 Brian Zerone                   06/20/25
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 6
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+CB01 Clint Biggers                  07/28/25
+CB02 Chaz Boggs                     02/27/25
+CB04 Cori Beredino                  03/27/25
+CB06 Carrie Beranek                 07/31/25   *
+CB07 Colin Barry                    08/05/25   *
+CF01 Casey Fitzgivens               06/29/23
+CH01 Chris Hought                   08/05/25   *
+ci01 chris ingersoll                06/28/23
+CJ01 Craig Judy                     04/03/25
+CK04 Chris Kula                     07/18/25
+CM03 Chris Muir                     08/05/25   *
+CM05 Courtney McKeever              02/15/25
+CS01 Cris Stout                     06/27/25
+CS02 Chris Sharp                    02/09/24
+CS03 Cody Smith                     08/04/25   *
+CS04 Cathy Shafer                   07/16/25
+cust cust
+CV01 Clark Varnes                   07/15/25
+CW02 Cory Weinfurther               03/26/25
+DA02 Danny Albaugh                  07/24/25
+DB02 Dan Barkey                     09/03/24
+DB03 Danielle Brown                 07/19/24
+DB09 Dustin Bussard                 04/08/25
+DC02 Doug Cohen                     04/28/25
+DG05 Dominique Godfrey              08/05/25   *
+DH01 Dave Hill                      07/28/25
+DJ01 Dan Jaworski                   02/12/25
+DL02 David Lemasters
+DM04 Dave Mueller                   01/18/24
+DP01 Dylan Patel                    03/17/25
+DP03 Dylan Palazzi                  07/24/25
+dqt  DQTech
+DR04 Dylan Rende                    05/28/25
+DS01 Darlene Smith                  06/25/25
+DS03 Dave Snyder                    05/19/25
+DW01 Dave Wendell                   05/30/24
+EB01 Errin Bray                     06/04/24
+EB02 Erin Bryan                     01/16/25
+EB03 Erik Booth                     08/05/25   *
+EG01 Ed Garofalo                    02/19/24
+EG02 Evan Greco                     03/19/25
+EG03 Ed Gray                        08/01/25   *
+EL01 Enoc Lucio                     02/22/24
+EM01 Emil Mallaun                   04/10/24
+EM05 Ethan McCoy                    02/12/25
+EP01 Eric Painter                   07/30/25   *
+ES03 Elizabeth Stahl                08/05/25   *
+FG01 Frank Grasmuck                 08/05/25   *
+GP01 George Pesi
+HC01 Hannah Cole                    07/22/25
+HD01 Hector Dimarucot
+HH01 Hayden Hamm                    07/02/25
+IM01 Ido Meron                      08/05/25   *
+ip01 infor ppv                      09/07/22
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 7
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+IP02 Ian Person                     07/15/25
+IS01 Infor Support                  11/23/24
+ISM  ISM user DO NOT EDIT OR DELETE
+jdm  Jay's Sales Rep                07/18/25
+jdm9 jfd
+JF04 Jacob Foster                   05/28/24
+JH01 Jason Heinold
+JH02 Jennifer Herbert               02/11/25
+JH03 Jess Hamilton                  01/16/25
+JH05 Josh Huffman                   06/12/25
+JJ01 JASON JACKSON                  08/04/25   *
+JJ02 Jay Jones                      11/19/24
+JM01 Jay Merritt                    08/05/25   *
+JM09 Julianna Migliozzi             01/09/25
+JOBS Jobs User                      05/15/25
+JP01 Jeromy Pegg
+JQ01 James Quinn
+JR03 Jennifer Rodriguez             07/11/25
+JS01 Julie Simpson                  09/16/24
+JS10 Jesse Solomon
+JW01 Joel Ward                      08/05/25   *
+JW03 Jen Wilhelm                    08/02/25   *
+JW05 Joe Wetzel                     07/30/24
+JW10 Jason Waddell                  07/31/25   *
+JZ01 Jan Zambelli                   06/11/24
+JZ02 Julie Zindle                   02/08/24
+KB03 Karoline Breegle               08/04/25   *
+KC01 Kaylynn Chambers               08/01/25   *
+KC02 Kaylee Clausner                06/03/25
+KF01 Kevin Frizzell                 07/23/25
+KF02 Kim Fox                        07/10/25
+KG03 Kim Geary                      08/05/25   *
+KH02 Ken Higgins                    08/04/25   *
+KM02 Kirk McCune                    08/05/25   *
+KW01 Karlee Weiblinger              07/14/25
+LB01 Lisa Bosich                    07/30/25   *
+LH01 Lisa Howell                    05/15/25
+LK01 Lorin Kowalsky                 08/04/25   *
+LP01 Laura Pearson                  08/05/25   *
+LS01 Larry Shirey
+MA02 Michelle Andrako               02/18/25
+MC01 Marcy Cicio                    11/25/24
+MC02 Manuel Cossio
+MD02 Michael Dean                   04/28/25
+MF01 Matt Foster                    02/11/25
+MJ01 Michel Said Jimenez Sandoval
+MK01 Margaret Killeen               06/02/25
+ML02 Mike Laughlin                  08/05/25   *
+MM05 Michael Meinert                10/16/24
+MO01 Mandy Olszewski                08/05/25   *
+MP02 Mike Perri                     04/24/24
+MR01 Mike Rooney                    08/05/25   *
+MR02 Mike Rooney                    08/05/25   *
+MS03 Mark Supin                     08/01/25   *
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 8
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+MS05 Mike Sinwell                   08/04/25   *
+MT01 Mark Troutman
+MT02 Mary Gracielle Talaue          06/07/24
+MW01 Matt Will                      07/10/25
+MW04 Mindy Woolf                    03/11/25
+MZ01 Molly Zindash                  08/01/25   *
+ND01 Nick Draghi
+NE01 Noli Escalona
+NL01 Nick Lucci                     12/03/24
+NR01 Nicole Rousseau                05/15/24
+PB03 Paula Bizzozero                07/30/25   *
+PD01 Patty Dietz                    08/05/25   *
+PH01 Pete Hogan                     05/18/23
+PJM  PJM User                       04/11/23
+PO01 Pat O'Toole                    07/24/25
+PP01 Pam Peters                     04/10/25
+PR01 Pat Rabuck                     05/27/25
+PR02 Patty Riddle                   07/23/25
+PW01 Parker Watson                  11/06/24
+R&D  R&D
+RD01 Ryan Dorn                      09/25/24
+RH01 Rachel Hunter                  03/18/25
+RH04 Ray Halahurich                 07/31/25   *
+RH05 Ryan Hartz                     08/05/25   *
+RK03 Ross Kiliany                   05/14/25
+RL01 Robert Lathrop                 11/20/24
+RL02 Robin Lewis                    12/20/24
+RM01 Rachana Mathradan              07/23/25
+RM06 Rodney Moehling                06/24/25
+RP01 Rick Poll                      12/09/24
+RR02 Ryan Ross                      08/05/25   *
+RW01 Rodney Walker                  03/26/25
+SA02 Scott Allan
+SB01 Sandie Barnhart                07/29/25   *
+SB02 Sarah Burkhart                 08/04/25   *
+SB06 Steve Bayura                   06/17/25
+SC03 Sueanne Clever                 07/29/25   *
+SD01 Sherry Downes                  03/04/25
+SH02 Samantha Herczyk               01/30/25
+SH03 SHAWNA HELMAN                  08/04/25   *
+SK03 Stacie Krusper                 08/05/25   *
+SM01 Sue Martin                     10/21/24
+SP01 Sai Sudhir PV                  06/19/25
+SP02 Stacey Prinkey                 01/31/25
+SP07 STEPHANIE PAINTER              07/31/25   *
+SR02 Skye Reveal                    10/04/24
+SR04 Subi Rajagopalan               08/05/25   *
+SS01 Samuel Sweeney-Kohl            07/23/25
+SS02 Shaun Strickland               03/14/25
+STR  Subi Test                      07/26/25
+SW01 Scott Whitson                  01/03/25
+SW05 Steven Weyandt                 07/24/25
+SWWL Scott Whitson TWL              08/01/24
+sys  sys                            07/18/25
+08/05/25 Tue 16:21 Server: 08/05/25 20:23   Co: 1     Vertex Inc                                 Func: sarsu  Oper: SR04 Page: 9
+                                            Scott Electric - Company 1 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+TD02 Timothy Drop                   10/09/24
+TD04 Tony Diorio
+TDIN Terri Dubulis                  07/30/25   *
+TH01 Tori Hall                      02/06/25
+TM01 Tony Marshall                  04/09/25
+TP01 Terry Pence                    02/17/25
+TR01 Tina Rood                      07/29/25   *
+TR03 Tracy Rhoades                  07/29/25   *
+TS01 Tech Services                  03/10/25
+TS07 Tanner Schwartz                08/05/25   *
+TS08 Tyler Stevenson                06/19/25
+TWL1 TWL Operator for Whse 1        02/07/24
+VM01 Valerie Markish                04/04/25
+WD01 Bill Danley                    04/23/25
+web  Unilog Web
+WW01 Wayne Watt                     10/18/22
+YR01 Yaakov Rubinstein              02/12/25
+zap  Accounts Payable Template
+zar  Accounts Receivable Template   05/19/11
+ZC01 Zach Caravaggio                05/13/25
+zcs  Customer Service Template
+zgl  Finance Template
+zic  Inventory Control Template
+zpo  Purchasing Template
+zwh  Warehouse Template
+Total Number of Users logged in last week: 57
+
+
