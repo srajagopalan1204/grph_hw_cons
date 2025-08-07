@@ -1,0 +1,379 @@
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 1
+                                            Scott Electric - Company 3 Homework Tables
+
+Transactions entered in SX in the past week:
+
+Taken By   OE Count
+-------- ----------
+DH01              2
+ISM              26
+JM01              8
+MR01              2
+TH03              4
+TS07             18
+VM01             22
+Total Number of Sales Orders Created: 82
+
+
+Taken By  Order # Suf
+-------- -------- ---
+ISM           502  00
+ISM           504  00
+ISM           801  00
+ISM           807  00
+ISM           812  00
+ISM           820  00
+ISM           825  00
+JM01          824  01
+TH03          816  01
+TS07          349  00
+TS07          353  00
+TS07          354  00
+TS07          355  00
+TS07          802  01
+VM01          356  00
+VM01          357  00
+VM01          358  00
+VM01          359  00
+VM01          360  00
+VM01          361  00
+VM01          362  00
+VM01          363  00
+VM01          364  00
+VM01          368  00
+VM01          369  00
+VM01          370  00
+VM01          371  00
+VM01          372  00
+VM01          373  00
+VM01          374  00
+VM01          375  00
+VM01          376  00
+VM01          378  00
+VM01          379  00
+VM01          382  00
+Total Number of Sales Orders Shipped: 35
+
+
+Oper   PO Count
+---- ----------
+JM01         36
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 2
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper   PO Count
+---- ----------
+JR03          1
+TH03          1
+TS07          2
+VM01          1
+Total Number of POEH Records Created: 6
+
+
+Rcv Init   Rcv PO's
+-------- ----------
+JM01              1
+JR03              1
+TH03              1
+TS07              1
+VM01              2
+Total Number of POEH Records Received: 6
+
+
+Oper   WT Count
+---- ----------
+JM01          6
+TS07          1
+Total Number of WTEH Records Created: 7
+
+
+Rcv Init WT Rcv Count
+-------- ------------
+JM01                5
+TS07                1
+Total Number of WTEH Records Received: 6
+
+
+Oper    # Jrnls
+---- ----------
+JM01         13
+JR03          2
+TH03          1
+TS07          3
+VM01         14
+Total Number of Journal Records Created: 33
+
+
+Oper Funct # Jrnl Posted
+---- ----- -------------
+JM01 apei              1
+JM01 icepa             1
+JM01 oeepi             2
+JM01 pv-ap             1
+JM01 wtei              4
+JM01 wtes              4
+JR03 apei              1
+JR03 poei              1
+TH03 oeepi             1
+TS07 icepa             1
+TS07 oeepi             1
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 3
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper Funct # Jrnl Posted
+---- ----- -------------
+TS07 poei              1
+VM01 arece             5
+VM01 arecr             1
+VM01 oeepi             6
+VM01 poei              2
+Total Number of Journal Records Posted: 33
+
+
+Oper     # PDSC
+---- ----------
+ISM           1
+Total Number of PDSC Records Created: 1
+
+Total Number of PDSR Records Created: 0
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+AC01 Arden Csolkovits
+AC02 Allison Cygnarowicz
+AC03 Tony Colarusso                 06/22/23
+AF01 Michael Frye                   04/10/25
+AH03 Amanda Hendrick                07/31/24
+AI01 Arnold Inoc
+AK01 Anthony Kapusinski
+AL01 Abigail Liner
+AM01 Al Metz                        07/07/25
+AM02 Adam Marks
+AM03 Amber Miller                   07/15/24
+AM05 Aneta Moriarty
+AP01 Al Pagliei
+AR01 Angela Rudolph
+AR03 Alice Reece
+AS02 Anthony Stephens JR
+AS03 Amber Skaggs                   07/29/25   *
+AU01 Austin Ulm                     07/03/25
+AZ02 Mandy Zoglmann                 06/08/23
+BA01 Briana Answine
+BC01 Bob Coletta                    04/27/23
+BC02 Bob Cloutier                   02/07/24
+BH01 Bill Haney
+BK01 Bob Kelecava                   06/17/25
+BK02 Barb Kleinkort
+BL01 Becky Lingenfelter
+BM01 Barb Moore
+BM03 Brian McEvoy                   02/07/24
+BM05 Bruce Miller                   04/09/25
+BM06 Ben Mitchell
+BR01 Bailie Richard
+BT01 Breana Turley
+BT02 Bobby Tester
+BW04 Brandon Williams               07/10/25
+CA01 Carissa Altieri                07/29/25   *
+CA02 Corey Anderson
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 4
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+CA03 Chris Arquillo                 04/09/25
+CB01 Clint Biggers                  03/21/25
+CB02 Chaz Boggs
+CB06 Carrie Beranek
+CF01 Casey Fitzgivens
+CH01 Chris Hought
+ci01 chris ingersoll
+CK04 Chris Kula
+CM03 Chris Muir
+CM05 Courtney McKeever
+CP02 Cynthia Pritts
+CS01 Cris Stout                     05/11/23
+CS02 Chris Sharp
+CS03 Cody Smith                     03/15/24
+cust cust
+CV01 Clark Varnes                   06/27/25
+CW02 Cory Weinfurther
+DA02 Danny Albaugh
+DB02 Dan Barkey                     09/03/24
+DB03 Danielle Brown
+DB06 Danielle Binning
+DB09 Dustin Bussard
+DH01 Dave Hill                      07/29/25   *
+DL02 David Lemasters
+DM04 Dave Mueller
+DP01 Dylan Patel                    03/17/25
+DP03 Dylan Palazzi                  10/18/23
+dqt  DQTech
+DR04 Dylan Rende
+DS03 Dave Snyder
+DT03 Dylan Teaman
+DW01 Dave Wendell
+DW04 David Williams                 04/09/25
+EB01 Errin Bray                     02/02/24
+EB03 Erik Booth
+EG01 Ed Garofalo                    05/16/23
+EG02 Evan Greco
+EG03 Ed Gray
+EL01 Enoc Lucio
+EM01 Emil Mallaun
+EP01 Eric Painter
+ES03 Elizabeth Stahl
+FG01 Frank Grasmuck                 05/12/23
+GH01 Garrett Hone
+HC01 Hannah Cole                    06/09/25
+HD01 Hector Dimarucot
+HH01 Hayden Hamm
+IM01 Ido Meron                      05/15/25
+ip01 infor ppv                      09/07/22
+IS01 Infor Support                  04/22/25
+ISM  ISM user DO NOT EDIT OR DELETE 03/21/25
+JB05 Justin Blankenship             04/10/25
+JF04 Jacob Foster
+JH01 Jason Heinold
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 5
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+JH05 Josh Huffman                   07/28/25   *
+JJ02 Jay Jones
+JL02 Josh Leftwich                  07/11/25
+JM01 Jay Merritt                    08/01/25   *
+JM09 Julianna Migliozzi
+JOBS Jobs User                      07/30/24
+JQ01 James Quinn
+JR02 Jesse Rhoades                  06/19/25
+JR03 Jennifer Rodriguez             08/01/25   *
+JR05 Jessie Randolph                07/29/25   *
+JS01 Julie Simpson                  09/18/24
+JS03 Jeremy Seabolt
+JS10 Jesse Solomon
+JT03 John Thompson                  04/25/25
+JW01 Joel Ward
+JW05 Joe Wetzel
+JW10 Jason Waddell
+JZ01 Jan Zambelli                   02/20/24
+JZ02 Julie Zindle
+KB05 Ken Bacan                      04/11/25
+KC01 Kaylynn Chambers
+KC02 Kaylee Clausner                06/03/25
+KF01 Kevin Frizzell                 09/09/24
+KG03 Kim Geary                      07/24/25
+KM02 Kirk McCune
+LA01 Larry Ali                      04/09/25
+LK01 Lorin Kowalsky
+LP01 Laura Pearson
+LS01 Larry Shirey
+MB07 Michael Bolen
+MC01 Marcy Cicio                    07/18/24
+MC02 Manuel Cossio
+MD02 Michael Dean                   04/21/25
+MJ01 Michel Said Jimenez Sandoval
+MK01 Margaret Killeen               09/06/24
+ML02 Mike Laughlin                  09/27/23
+MM05 Michael Meinert
+MM06 Michael McWilliams             04/08/25
+MO01 Mandy Olszewski                07/18/24
+MP02 Mike Perri                     03/09/24
+MR01 Mike Rooney                    08/01/25   *
+MR02 Mike Rooney
+MS01 Mark Syphan
+MS03 Mark Supin                     07/21/25
+MT02 Mary Gracielle Talaue          06/08/24
+MW01 Matt Will
+MW04 Mindy Woolf                    08/04/23
+MZ01 Molly Zindash                  07/08/25
+NE01 Noli Escalona
+NL01 Nick Lucci
+NR01 Nicole Rousseau
+PD01 Patty Dietz                    05/02/24
+PH01 Pete Hogan                     05/19/23
+PJM  PJM User                       04/11/23
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 6
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+PO01 Pat O'Toole
+PP01 Pam Peters
+PR01 Pat Rabuck
+PW01 Parker Watson
+R&D  R&D
+RA01 Rob Addis
+RD01 Ryan Dorn
+RF02 Rodney Foster
+RG03 Robert Geary
+RH01 Rachel Hunter
+RH04 Ray Halahurich
+RH05 Ryan Hartz
+RK03 Ross Kiliany
+RL01 Robert Lathrop
+RM01 Rachana Mathradan              06/12/24
+RM06 Rodney Moehling
+RP01 Rick Poll                      09/04/24
+RR02 Ryan Ross                      07/29/25   *
+RS01 Robert Smith                   07/11/25
+RW01 Rodney Walker
+SB01 Sandie Barnhart
+SB02 Sarah Burkhart                 07/16/24
+SB04 Samantha Baldwin               04/09/25
+SB06 Steve Bayura                   07/26/24
+SD01 Sherry Downes                  07/27/24
+SH02 Samantha Herczyk
+SK03 Stacie Krusper                 06/06/25
+SM01 Sue Martin                     04/21/24
+SP01 Sai Sudhir PV
+SQ01 Scott Queer
+SR02 Skye Reveal                    08/13/24
+SR03 Scott Rowan
+SR04 Subi Rajagopalan               08/01/25   *
+SS01 Samuel Sweeney-Kohl            07/23/25
+SS02 Shaun Strickland               03/14/25
+SW01 Scott Whitson                  09/06/24
+SW05 Steven Weyandt
+sys  sys                            07/17/25
+TD02 Timothy Drop                   08/01/25   *
+TH01 Tori Hall                      07/15/24
+TH03 Taylor Howard                  08/01/25   *
+TK03 Tyler Keyser
+TM01 Tony Marshall                  05/02/23
+TM03 Taylor Miedel                  04/08/25
+TR01 Tina Rood                      03/07/25
+TRT2 Tina Rood
+TRT3 Tina Rood
+TS01 Tech Services                  07/23/25
+TS02 Tim Skantar
+TS07 Tanner Schwartz                08/01/25   *
+TS08 Tyler Stevenson
+VM01 Valerie Markish                08/01/25   *
+WD01 Bill Danley
+WW01 Wayne Watt                     10/18/22
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 3     * TESTING * Palco                          Func: sarsu  Oper: IM01 Page: 7
+                                            Scott Electric - Company 3 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+YR01 Yaakov Rubinstein
+zap  Accounts Payable Template
+zar  Accounts Receivable Template   05/19/11
+ZC01 Zach Caravaggio
+zcs  Customer Service Template
+ZG01 Zachary Guidos
+zgl  Finance Template
+zic  Inventory Control Template
+zpo  Purchasing Template
+zwh  Warehouse Template
+Total Number of Users logged in last week: 14
+
+

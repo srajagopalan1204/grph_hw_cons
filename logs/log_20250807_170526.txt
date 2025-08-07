@@ -1,0 +1,8 @@
+[INFO] Processing workbook for Cono1: ./Cono1/Consolidated_reports/Cono1_Cono1_Cono1_Consolidate_report_08072025_16_08_graph_20250807_1630_graph_20250807_1634_graph_20250807_1638.xlsx
+[SUCCESS] Chart created: Graph_TakenBy_OEcount in Cono1
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono1
+[DRYRUN] Skipped saving ./Cono1/Consolidated_reports/Cono1_Cono1_Cono1_Cono1_Consolidate_report_08072025_16_08_graph_20250807_1630_graph_20250807_1634_graph_20250807_1638_graph_20250807_1705.xlsx
+[INFO] Processing workbook for Cono2: ./Cono2/Consolidated_reports/Consolidate_report_08072025_16_08.xlsx
+[WARNING] No chart configuration found for Cono2. Skipping...
+[INFO] Processing workbook for Cono3: ./Cono3/Consolidated_reports/Cono3_Cono3_Consolidate_report_08072025_16_08_graph_20250807_1630_graph_20250807_1638.xlsx
+[WARNING] No chart configuration found for Cono3. Skipping...

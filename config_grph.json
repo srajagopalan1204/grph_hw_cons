@@ -1,0 +1,57 @@
+{
+  "workbooks": [
+    {
+      "cono": "Cono1",
+      "charts": [
+        {
+          "sheet": "Section1_TakenBy_OEcount",
+          "title": "OE Count Trend by TakenBy",
+          "x_col": "TakenBy",
+          "output_sheet": "Graph_TakenBy_OEcount"
+        },
+        {
+          "sheet": "Section3_Oper_POCount",
+          "title": "PO Count Trend by Oper",
+          "x_col": "Oper",
+          "output_sheet": "Graph_Oper_POCount"
+        }
+      ]
+    },
+    {
+  "cono": "Cono2",
+  "charts": [
+    {
+      "sheet": "Section1_TakenBy_OEcount",
+      "title": "OE Count Trend by TakenBy",
+      "x_col": "TakenBy",
+      "output_sheet": "Graph_TakenBy_OEcount"
+    },
+    {
+      "sheet": "Section3_Oper_POCount",
+      "title": "PO Count Trend by Oper",
+      "x_col": "Oper",
+      "output_sheet": "Graph_Oper_POCount"
+    }
+  ]
+},
+
+    {
+  "cono": "Cono3",
+  "charts": [
+    {
+      "sheet": "Section1_TakenBy_OEcount",
+      "title": "OE Count Trend by TakenBy",
+      "x_col": "TakenBy",
+      "output_sheet": "Graph_TakenBy_OEcount"
+    },
+    {
+      "sheet": "Section3_Oper_POCount",
+      "title": "PO Count Trend by Oper",
+      "x_col": "Oper",
+      "output_sheet": "Graph_Oper_POCount"
+    }
+  ]
+}
+
+  ]
+}

@@ -1,0 +1,12 @@
+[INFO] Processing workbook for Cono1: ./Cono1/Consolidated_reports/Consolidate_report_08072025_18_27.xlsx
+[SUCCESS] Chart created: Graph_TakenBy_OEcount in Cono1
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono1
+[SAVED] Graphs saved to ./Cono1/Consolidated_reports/Cono1_Consolidate_report_08072025_18_27_graph_20250807_1829.xlsx
+[INFO] Processing workbook for Cono2: ./Cono2/Consolidated_reports/Consolidate_report_08072025_18_27.xlsx
+[INFO] Sheet 'Section1_TakenBy_OEcount' has fewer than 2 rows. Skipping chart.
+[INFO] Sheet 'Section3_Oper_POCount' has fewer than 2 rows. Skipping chart.
+[SAVED] Graphs saved to ./Cono2/Consolidated_reports/Cono2_Consolidate_report_08072025_18_27_graph_20250807_1829.xlsx
+[INFO] Processing workbook for Cono3: ./Cono3/Consolidated_reports/Consolidate_report_08072025_18_27.xlsx
+[SUCCESS] Chart created: Graph_TakenBy_OEcount in Cono3
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono3
+[SAVED] Graphs saved to ./Cono3/Consolidated_reports/Cono3_Consolidate_report_08072025_18_27_graph_20250807_1829.xlsx

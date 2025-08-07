@@ -1,0 +1,206 @@
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 2     * TESTING * South Main Trucking            Func: sarsu  Oper: IM01 Page: 1
+                                            Scott Electric - Company 2 Homework Tables
+
+Transactions entered in SX in the past week:
+Total Number of Sales Orders Created: 0
+
+Total Number of Sales Orders Shipped: 0
+
+Total Number of POEH Records Created: 0
+
+Total Number of POEH Records Received: 0
+
+Total Number of WTEH Records Created: 0
+
+Total Number of WTEH Records Received: 0
+
+Total Number of Journal Records Created: 0
+
+Total Number of Journal Records Posted: 0
+
+Total Number of PDSC Records Created: 0
+
+Total Number of PDSR Records Created: 0
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+AC01 Arden Csolkovits
+AC02 Allison Cygnarowicz            06/06/23
+AC03 Tony Colarusso                 06/22/23
+AH03 Amanda Hendrick                07/15/24
+AI01 Arnold Inoc
+AK01 Anthony Kapusinski
+AL01 Abigail Liner                  07/10/25
+AM01 Al Metz                        02/03/25
+AM02 Adam Marks                     08/01/23
+AM03 Amber Miller                   02/20/24
+AR01 Angela Rudolph                 06/07/23
+AR03 Alice Reece
+AS02 Anthony Stephens JR
+AZ02 Mandy Zoglmann                 06/06/23
+BC01 Bob Coletta                    04/27/23
+BC02 Bob Cloutier
+BH01 Bill Haney                     06/06/23
+BI01 Bob Infor Test
+BK01 Bob Kelecava                   06/06/25
+BK02 Barb Kleinkort
+BM01 Barb Moore                     05/16/23
+BM03 Brian McEvoy                   02/07/24
+BR01 Bailie Richard
+BT02 Bobby Tester
+CB01 Clint Biggers                  12/29/22
+CB02 Chaz Boggs
+CB06 Carrie Beranek
+CF01 Casey Fitzgivens
+CH01 Chris Hought
+ci01 chris ingersoll
+CK04 Chris Kula
+CM03 Chris Muir                     05/22/23
+CM05 Courtney McKeever              06/01/23
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 2     * TESTING * South Main Trucking            Func: sarsu  Oper: IM01 Page: 2
+                                            Scott Electric - Company 2 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+CS01 Cris Stout                     05/11/23
+CS02 Chris Sharp
+CS03 Cody Smith                     07/22/24
+cust cust
+CV01 Clark Varnes
+CW02 Cory Weinfurther
+DA02 Danny Albaugh
+DB02 Dan Barkey
+DB03 Danielle Brown                 07/09/24
+DB09 Dustin Bussard
+DH01 Dave Hill                      05/05/25
+DM04 Dave Mueller                   06/05/23
+DP01 Dylan Patel
+DP03 Dylan Palazzi                  10/18/23
+dqt  DQTech
+DR04 Dylan Rende                    05/16/23
+DS03 Dave Snyder
+DW01 Dave Wendell
+EB01 Errin Bray                     02/02/24
+EB03 Erik Booth
+EG01 Ed Garofalo                    05/16/23
+EG02 Evan Greco                     03/07/24
+EG03 Ed Gray
+EL01 Enoc Lucio
+EM01 Emil Mallaun                   08/25/23
+EP01 Eric Painter
+ES03 Elizabeth Stahl
+FG01 Frank Grasmuck                 05/12/23
+HC01 Hannah Cole                    06/27/25
+HD01 Hector Dimarucot
+HH01 Hayden Hamm                    07/02/25
+IM01 Ido Meron                      05/16/25
+ip01 infor ppv                      09/07/22
+IS01 Infor Support
+JF04 Jacob Foster
+JH01 Jason Heinold
+JH05 Josh Huffman                   07/22/24
+JJ02 Jay Jones
+JM01 Jay Merritt                    07/11/25
+JM09 Julianna Migliozzi
+JOBS Jobs User                      03/21/24
+JQ01 James Quinn
+JR03 Jennifer Rodriguez
+JS01 Julie Simpson
+JW01 Joel Ward
+JW05 Joe Wetzel
+JW10 Jason Waddell                  06/08/23
+JZ01 Jan Zambelli                   06/12/24
+JZ02 Julie Zindle
+KC01 Kaylynn Chambers
+KF01 Kevin Frizzell                 09/09/24
+KG03 Kim Geary
+KM02 Kirk McCune
+LK01 Lorin Kowalsky
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 2     * TESTING * South Main Trucking            Func: sarsu  Oper: IM01 Page: 3
+                                            Scott Electric - Company 2 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+LP01 Laura Pearson                  06/06/23
+LS01 Larry Shirey
+MC01 Marcy Cicio                    09/21/23
+MC02 Manuel Cossio
+MD02 Michael Dean                   04/14/25
+MJ01 Michel Said Jimenez Sandoval
+MK01 Margaret Killeen               09/06/24
+ML02 Mike Laughlin                  09/27/23
+MM05 Michael Meinert
+MO01 Mandy Olszewski
+MP02 Mike Perri                     03/08/24
+MR01 Mike Rooney                    10/18/23
+MS03 Mark Supin                     07/14/25
+MT02 Mary Gracielle Talaue
+MW01 Matt Will                      06/06/23
+MW04 Mindy Woolf                    05/16/23
+MZ01 Molly Zindash
+NL01 Nick Lucci                     08/07/24
+NR01 Nicole Rousseau
+PD01 Patty Dietz                    05/16/23
+PH01 Pete Hogan
+PJM  PJM User                       04/11/23
+PO01 Pat O'Toole
+PP01 Pam Peters
+PR01 Pat Rabuck                     05/16/23
+PW01 Parker Watson                  10/09/23
+R&D  R&D
+RA01 Rob Addis
+RD01 Ryan Dorn
+RH01 Rachel Hunter
+RH04 Ray Halahurich
+RH05 Ryan Hartz
+RK03 Ross Kiliany                   09/28/23
+RL01 Robert Lathrop
+RM01 Rachana Mathradan              06/12/24
+RM06 Rodney Moehling
+RP01 Rick Poll                      09/04/24
+RR02 Ryan Ross                      07/28/25   *
+SB01 Sandie Barnhart
+SB02 Sarah Burkhart
+SB06 Steve Bayura
+SD01 Sherry Downes                  08/24/23
+SH02 Samantha Herczyk
+SK03 Stacie Krusper                 09/04/24
+SM01 Sue Martin                     02/13/24
+SP01 Sai Sudhir PV
+SR02 Skye Reveal                    05/17/24
+SR04 Subi Rajagopalan               03/19/24
+SS01 Samuel Sweeney-Kohl            07/23/25
+SS02 Shaun Strickland               12/01/22
+SW01 Scott Whitson
+SW05 Steven Weyandt
+sys  sys
+TD02 Timothy Drop
+08/01/25 Fri 18:00 Server: 08/01/25 22:00   Co: 2     * TESTING * South Main Trucking            Func: sarsu  Oper: IM01 Page: 4
+                                            Scott Electric - Company 2 Homework Tables
+
+
+Oper v-name                         Login Date LastWk?
+---- ------------------------------ ---------- -------
+TH01 Tori Hall                      06/17/24
+TM01 Tony Marshall                  05/02/23
+TR01 Tina Rood                      03/07/25
+TS01 Tech Services                  03/10/25
+TS07 Tanner Schwartz
+VM01 Valerie Markish
+WD01 Bill Danley
+WW01 Wayne Watt                     10/18/22
+YR01 Yaakov Rubinstein
+zap  Accounts Payable Template
+zar  Accounts Receivable Template   05/19/11
+ZC01 Zach Caravaggio
+zcs  Customer Service Template
+zgl  Finance Template
+zic  Inventory Control Template
+zpo  Purchasing Template
+zwh  Warehouse Template
+Total Number of Users logged in last week: 1
+
+
