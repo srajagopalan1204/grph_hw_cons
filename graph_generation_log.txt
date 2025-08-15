@@ -1,2 +1,88 @@
 [ERROR] Missing 'cono' key in a workbook entry. Skipping this entry.
 [ERROR] Missing 'cono' key in a workbook entry. Skipping this entry.
+[2025-08-10 15:00:10] ===== RUN 08102025_1100 (America/New_York) =====
+[2025-08-10 15:00:10] [INFO] Processing 3 workbook(s).
+[2025-08-10 15:00:10] [INFO] -> /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:00:10] [SUCCESS] Chart created: Graph_TakenBy_OEcount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [SUCCESS] Chart created: Graph_Oper_POCount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [WARNING] No columns matched y_suffix 'Rcv_PO_Count' in sheet 'Section4_RcvInit_RcvPO' — skipping chart 'Rcv_POs'.
+[2025-08-10 15:00:10] [SUCCESS] Chart created: WT_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [SUCCESS] Chart created: WT_Rcv_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [SUCCESS] Chart created: Num_Jrnls in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [SUCCESS] Chart created: Num_PDSC in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:10] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Cono1_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:10] [DRYRUN] RUN=08102025_1100 CONO=Cono1 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono1_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:10] [INFO] -> /workspaces/grph_hw_cons/Cono3/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:00:11] [SUCCESS] Chart created: Graph_TakenBy_OEcount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Chart created: Graph_Oper_POCount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [WARNING] No columns matched y_suffix 'Rcv_PO_Count' in sheet 'Section4_RcvInit_RcvPO' — skipping chart 'Rcv_POs'.
+[2025-08-10 15:00:11] [SUCCESS] Chart created: WT_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Chart created: WT_Rcv_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Chart created: Num_Jrnls in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Chart created: Num_PDSC in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono3/Consolidated_reports/Cono3_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:11] [DRYRUN] RUN=08102025_1100 CONO=Cono3 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono3_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:11] [INFO] -> /workspaces/grph_hw_cons/Cono2/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:00:11] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'Graph_TakenBy_OEcount' — skipping.
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'Graph_Oper_POCount' — skipping.
+[2025-08-10 15:00:11] [WARNING] No columns matched y_suffix 'Rcv_PO_Count' in sheet 'Section4_RcvInit_RcvPO' — skipping chart 'Rcv_POs'.
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'WT_Count' — skipping.
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'WT_Rcv_Count' — skipping.
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'Num_Jrnls' — skipping.
+[2025-08-10 15:00:11] [WARNING] Not enough rows for 'Num_PDSC' — skipping.
+[2025-08-10 15:00:11] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono2/Consolidated_reports/Cono2_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:11] [DRYRUN] RUN=08102025_1100 CONO=Cono2 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono2_Src_090825_15_42__Grph_100820251100.xlsx
+[2025-08-10 15:00:11] [INFO] Done.
+[2025-08-10 15:19:03] ===== RUN 08102025_1119 (America/New_York) =====
+[2025-08-10 15:19:03] [INFO] Processing 1 workbook(s).
+[2025-08-10 15:19:03] [INFO] -> /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:19:04] [SUCCESS] Chart created: Graph_TakenBy_OEcount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: Graph_Oper_POCount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: Rcv_POs in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: WT_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: WT_Rcv_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: Num_Jrnls in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [SUCCESS] Chart created: Num_PDSC in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:04] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Cono1_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:04] [DRYRUN] RUN=08102025_1119 CONO=Cono1 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono1_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:04] [INFO] Done.
+[2025-08-10 15:19:22] ===== RUN 08102025_1119 (America/New_York) =====
+[2025-08-10 15:19:22] [INFO] Processing 3 workbook(s).
+[2025-08-10 15:19:22] [INFO] -> /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:19:22] [SUCCESS] Chart created: Graph_TakenBy_OEcount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Chart created: Graph_Oper_POCount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Chart created: Rcv_POs in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Chart created: WT_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Chart created: WT_Rcv_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:22] [SUCCESS] Chart created: Num_Jrnls in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Num_PDSC in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono1/Consolidated_reports/Cono1_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [DRYRUN] RUN=08102025_1119 CONO=Cono1 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono1_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [INFO] -> /workspaces/grph_hw_cons/Cono3/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Graph_TakenBy_OEcount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Graph_Oper_POCount in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Rcv_POs in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: WT_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: WT_Rcv_Count in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Num_Jrnls in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Chart created: Num_PDSC in Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono3/Consolidated_reports/Cono3_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [DRYRUN] RUN=08102025_1119 CONO=Cono3 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono3_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [INFO] -> /workspaces/grph_hw_cons/Cono2/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[2025-08-10 15:19:23] [SUCCESS] Section 11 cleaned from 'Section11_Oper_v-name_LoginDt_l' -> 'Section11_Clean' (clustered, corrected highlighting)
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'Graph_TakenBy_OEcount' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'Graph_Oper_POCount' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'Rcv_POs' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'WT_Count' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'WT_Rcv_Count' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'Num_Jrnls' — skipping.
+[2025-08-10 15:19:23] [WARNING] Not enough rows for 'Num_PDSC' — skipping.
+[2025-08-10 15:19:23] [DRYRUN] Would save to: /workspaces/grph_hw_cons/Cono2/Consolidated_reports/Cono2_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [DRYRUN] RUN=08102025_1119 CONO=Cono2 SOURCE=Consolidate_report_08092025_15_42.xlsx OUTPUT=Cono2_Src_090825_15_42__Grph_100820251119.xlsx
+[2025-08-10 15:19:23] [INFO] Done.

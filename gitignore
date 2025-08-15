@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.log
+*.tmp
+*.DS_Store
+.env
+.venv
+*_graph*.xlsx

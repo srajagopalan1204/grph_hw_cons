@@ -1,57 +1,86 @@
 {
-  "workbooks": [
-    {
-      "cono": "Cono1",
-      "charts": [
-        {
-          "sheet": "Section1_TakenBy_OEcount",
-          "title": "OE Count Trend by TakenBy",
-          "x_col": "TakenBy",
-          "output_sheet": "Graph_TakenBy_OEcount"
-        },
-        {
-          "sheet": "Section3_Oper_POCount",
-          "title": "PO Count Trend by Oper",
-          "x_col": "Oper",
-          "output_sheet": "Graph_Oper_POCount"
-        }
-      ]
-    },
-    {
-  "cono": "Cono2",
+  "environment": {
+    "runtime": "codespaces",
+    "python_version": "3.12",
+    "default_folder_structure": "./ConoX/Consolidated_reports/"
+  },
+  "discovery": {
+    "paths": [
+      "./Cono*/Consolidated_reports"
+    ],
+    "ignore_filename_contains": [
+      "_graph",
+      "_graph_",
+      "_Grph"
+    ],
+    "file_extensions": [
+      ".xlsx"
+    ],
+    "pick_latest_by": "filename_timestamp"
+  },
+  "output": {
+    "mode": "new_file",
+    "timezone": "America/New_York",
+    "directory": "same_as_source",
+    "filename_pattern": "{cono}_Src_{src_ts}__Grph_{run_ts_EST}",
+    "sheet_order": "grph_first_then_section11_clean_then_log"
+  },
   "charts": [
     {
       "sheet": "Section1_TakenBy_OEcount",
-      "title": "OE Count Trend by TakenBy",
       "x_col": "TakenBy",
-      "output_sheet": "Graph_TakenBy_OEcount"
+      "y_suffix": "OE_Count",
+      "chart_type": "column",
+      "title": "OE_Count_by_Oper_Sec1",
+      "sort_by_x": "asc"
     },
     {
       "sheet": "Section3_Oper_POCount",
-      "title": "PO Count Trend by Oper",
       "x_col": "Oper",
-      "output_sheet": "Graph_Oper_POCount"
-    }
-  ]
-},
-
-    {
-  "cono": "Cono3",
-  "charts": [
-    {
-      "sheet": "Section1_TakenBy_OEcount",
-      "title": "OE Count Trend by TakenBy",
-      "x_col": "TakenBy",
-      "output_sheet": "Graph_TakenBy_OEcount"
+      "y_suffix": "PO_Count",
+      "chart_type": "column",
+      "title": "PO_Count_by_Oper_Sec3",
+      "sort_by_x": "asc"
     },
     {
-      "sheet": "Section3_Oper_POCount",
-      "title": "PO Count Trend by Oper",
-      "x_col": "Oper",
-      "output_sheet": "Graph_Oper_POCount"
+      "sheet": "Section4_RcvInit_RcvPO",
+      "x_col": "Rcv_Init",
+      "y_suffix": "Rcv_POs",
+      "chart_type": "column",
+      "title": "RcvPOs_by_Init_Sec4",
+      "sort_by_x": "asc"
+    },
+    {
+      "sheet_prefix": "Section5_",
+      "x_col": "first_column",
+      "y_suffix": "*",
+      "chart_type": "column",
+      "title": "Sec5",
+      "sort_by_x": "asc"
+    },
+    {
+      "sheet_prefix": "Section6_",
+      "x_col": "first_column",
+      "y_suffix": "*",
+      "chart_type": "column",
+      "title": "Sec6",
+      "sort_by_x": "asc"
+    },
+    {
+      "sheet_prefix": "Section7_",
+      "x_col": "first_column",
+      "y_suffix": "*",
+      "chart_type": "column",
+      "title": "Sec7",
+      "sort_by_x": "asc"
+    },
+    {
+      "sheet_prefix": "Section9_",
+      "x_col": "first_column",
+      "y_suffix": "*",
+      "chart_type": "column",
+      "title": "Sec9",
+      "sort_by_x": "asc"
     }
-  ]
-}
-
   ]
 }

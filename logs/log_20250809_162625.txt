@@ -1,0 +1,15 @@
+[INFO] Processing workbook for Cono1: ./Cono1/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[SUCCESS] Chart created: Graph_TakenBy_OEcount in Cono1
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono1
+[SUCCESS] Chart created: Rcv_POs in Cono1
+[SUCCESS] Chart created: WT_Count in Cono1
+[SUCCESS] Chart created: WT_Rcv_Count in Cono1
+[DRYRUN] Skipped saving ./Cono1/Consolidated_reports/Cono1_Consolidate_report_08092025_15_42_graph_20250809_1626.xlsx
+[INFO] Processing workbook for Cono2: ./Cono2/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[INFO] Sheet 'Section1_TakenBy_OEcount' has fewer than 2 rows. Skipping chart.
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono2
+[DRYRUN] Skipped saving ./Cono2/Consolidated_reports/Cono2_Consolidate_report_08092025_15_42_graph_20250809_1626.xlsx
+[INFO] Processing workbook for Cono3: ./Cono3/Consolidated_reports/Consolidate_report_08092025_15_42.xlsx
+[SUCCESS] Chart created: Graph_TakenBy_OEcount in Cono3
+[SUCCESS] Chart created: Graph_Oper_POCount in Cono3
+[DRYRUN] Skipped saving ./Cono3/Consolidated_reports/Cono3_Consolidate_report_08092025_15_42_graph_20250809_1626.xlsx
